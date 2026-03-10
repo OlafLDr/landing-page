@@ -1,0 +1,6 @@
+Redirect 301 /files.publii.json /
+
+# Allow all files by default
+<FilesMatch ".*">
+    Allow from all
+</FilesMatch>
