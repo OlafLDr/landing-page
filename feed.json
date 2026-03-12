@@ -2,8 +2,8 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Dr. Olaf Lehmann - Energieberatung",
     "description": "",
-    "home_page_url": "https://OlafLDr.github.io/landing-page",
-    "feed_url": "https://OlafLDr.github.io/landing-page/feed.json",
+    "home_page_url": "https://lehmann-eb.de",
+    "feed_url": "https://lehmann-eb.de/feed.json",
     "user_comment": "",
     "author": {
         "name": "Olaf Lehmann"
